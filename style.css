@@ -17,3 +17,11 @@ img {
   padding: 5px;
   border: 1px solid;
 }
+
+.lado-esquerdo {
+  float: left;
+}
+
+.lado-direito {
+  float: right;
+}
