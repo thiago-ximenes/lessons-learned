@@ -22,7 +22,7 @@ h1 {
   padding: 0;
 }
 
-#cabecalho a{
+#cabecalho a {
   display: inline-block;
   list-style-type: none;
   color: white;
@@ -34,13 +34,12 @@ h1 {
 }
 
 nav {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 main {
   margin-left: 25px;
   margin-top: 250px;
-  
 }
 
 img {
@@ -56,23 +55,17 @@ img {
 
 .lado-esquerdo {
   float: left;
+  width: 47%;
 }
 
 .lado-direito {
   float: right;
-}
-
-.lado-a-lado {
-  display: inline-block;
-}
-
-.lado-esquerdo {
-  width: 47%;
-}
-
-.lado-direito {
   color: white;
   background-color: green;
   width: 47%;
   padding: 10px;
+}
+
+.lado-a-lado {
+  display: inline-block;
 }
