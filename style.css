@@ -70,7 +70,7 @@ img {
   display: inline-block;
 }
 
-section ul, section ol {
+section ul , section ol {
   display: inline-block;
   margin-bottom: 30px;
 }
@@ -87,5 +87,5 @@ section ul, section ol {
 #rodape {
   background-color: green;
   color: white;
-  padding: 10px 0 0 10px ;
+  padding: 10px 0 0 10px;
 }
