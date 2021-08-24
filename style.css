@@ -69,3 +69,23 @@ img {
 .lado-a-lado {
   display: inline-block;
 }
+
+section ul, section ol {
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+#licoes_aprendidas {
+  display: inline-block;
+  width: 40%;
+}
+
+.licoes_a_aprender {
+  display: inline-block;
+}
+
+#rodape {
+  background-color: green;
+  color: white;
+  padding: 10px 0 0 10px ;
+}
