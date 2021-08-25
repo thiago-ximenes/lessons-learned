@@ -91,7 +91,7 @@ section ul , section ol {
   padding: 10px 0 0 10px;
 }
 
-.link-photo {
+#link-photo {
   width: 100%;
   text-align: center;
   display: inline-block;
@@ -101,8 +101,4 @@ section ul , section ol {
 .icon-linkedin {
   width: 150px;
   margin-bottom: 20px;
-}
-
-.social {
-  border: px solid green;
 }
